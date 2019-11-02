@@ -2,3 +2,4 @@ Kyokasyo/.vscode
 Kyokasyo/test.py
 Kyokasyo/debug.py
 */.ipynb_checkpoints
+*.csv
